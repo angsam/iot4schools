@@ -39,7 +39,7 @@ connect_mqtt(client)
 
 ## 📚 Project Context
 
-This library was developed as part of the IoT4Schools project — an international educational initiative bringing Internet of Things and cloud computing to schools across Europe using Raspberry Pi Pico W and MicroPython.
+This library was developed as part of the IoT4Schools project (Erasmus+, 2023-1-PL01-KA220-SCH-000154043) — an international educational initiative bringing Internet of Things and cloud computing to schools across Europe using Raspberry Pi Pico W and MicroPython.
 
 Disclaimer:
 *The European Commission's support to produce this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.*
