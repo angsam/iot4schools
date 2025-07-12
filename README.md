@@ -29,6 +29,7 @@ client = create_mqtt_client("your_username", "your_aio_key")
 connect_mqtt(client)
 
 # Now you can use client.publish(), client.subscribe(), etc.
+```
 
 ## ✅ Requirements
 
